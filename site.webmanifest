@@ -1,6 +1,6 @@
 {
-    "name": "CodingIndoTools",
-    "short_name": "CodingIndoTools",
+    "name": "CodingIndo Tools",
+    "short_name": "CodingIndo Tools",
     "description": "CodingIndo Tools adalah kumpulan tools online gratis untuk developer dan pengguna umum seperti converter, generator, dan utility lainnya.",
     "start_url": "https://codingindotools.vercel.app/",
     "display": "standalone",
@@ -8,87 +8,44 @@
     "lang": "id",
     "background_color": "#ffffff",
     "theme_color": "#0d6efd",
-    "prefer_related_applications": false,
-    "related_applications": [
-        {
-            "platform": "web",
-            "url": "https://codingindotools.vercel.app/"
-<<<<<<< HEAD
-        }
-    ],
     "icons": [
         {
             "src": "/src/assets/images/logo.png",
-=======
-        },
-    ],
-    "icons": [
-        {
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "128x128",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "152x152",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-<<<<<<< HEAD
             "src": "/src/assets/images/logo.png",
-=======
-            "src": "https://codingindo.vercel.app/src/assets/images/logo.png",
->>>>>>> 8670263a58c4aad1a507b8ed3bbb7aab348632e1
             "sizes": "512x512",
             "type": "image/png"
         }
